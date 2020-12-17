@@ -1,6 +1,6 @@
 # autonomousdrone
 
-This is an end of high school project where I delved into drone building and optimization of its use cases through an attempt to add an element of autonomy.
+This is a high school project where I delved into drone building and optimization of its use cases through an attempt to add an element of autonomy.
 
 The goal of the project is to produce a simple drone with manual controls then take it a step further with the ability to detect objects and return information about them – such as what they are and where they are. The drone built will be a 250 quadcopter and the tech specs are available in the documentation pdf. The object detection and data processing features will be running on a Raspberry Pi model 3 B+.
 
