@@ -17,3 +17,9 @@ Here is some videos produced in the duration of this project:
 My scope briefly, was a ‘seeing’ autonomous drone. The way I thought of it and structured my solution consisted of letting a Python script control the drone (using DroneKit) instead of me and getting it to perform a task for me such as detect the objects surrounding it and letting me know about it then doing something else – like landing if you see a person ahead.
 The code for that Python script is [here](https://github.com/selin-k/autonomousdrone/blob/main/code/object-detection.py).
 Feel free to criticize or offer suggestions. I will continue adding features and upgrade this drone with time.
+
+
+Documentation:
+
+<iframe src="documentation.pdf" width="100%" height="500px">
+    </iframe>
